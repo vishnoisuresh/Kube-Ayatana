@@ -1,2 +1,4 @@
-  		**********		
-K8s run coniniously to match current state with desired state of cluster.  
+  		**********
+
+Self-Healing ==> K8s run continuously to match current state with desired state of cluster. 
+If there something needs to be done it will do automatically.
