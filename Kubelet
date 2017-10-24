@@ -1,0 +1,3 @@
+
+It's resposnible for making sure that desire and current state should be equal. 
+It's used for getting the secret and config map from etcd for pod. 
